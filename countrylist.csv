@@ -1,4 +1,4 @@
-iso:alpha-3,iso:alpha-2,iso:m49_code,iso:3166-2,centeroid:latitude,centeroid:longitude,wb:country,un:country_or_area,wb:region,wb:income_group,wb:lending_category,wb:other,un: region,un:sub-region,un:intermediate-region,un:region-code,un:sub-region-code,un:intermediate-region-code
+iso:alpha-3,iso:alpha-2,un:m49_code,iso:3166-2,centeroid:latitude,centeroid:longitude,wb:country,un:country_or_area,wb:region,wb:income_group,wb:lending_category,wb:other,un: region,un:sub-region,un:intermediate-region,un:region-code,un:sub-region-code,un:intermediate-region-code
 KOR,KR,410,ISO 3166-2:KR,35.907757,127.766922,"Korea, Rep.",Republic of Korea,East Asia & Pacific,High income,..,,Asia,Eastern Asia,,142,030,
 PRK,KP,408,ISO 3166-2:KP,40.339852,127.510093,"Korea, Dem. People's Rep.",Democratic People's Republic of Korea,East Asia & Pacific,Low income,..,,Asia,Eastern Asia,,142,030,
 CHN,CN,156,ISO 3166-2:CN,35.86166,104.195397,China,China,East Asia & Pacific,Upper middle income,IBRD,,Asia,Eastern Asia,,142,030,
