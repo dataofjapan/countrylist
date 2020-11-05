@@ -12,36 +12,36 @@ ISO、世界銀行、国連に掲載の国情報を集約し、緯度経度（�
 
 ### ISO 及び国連による国コード
 
-iso:alpha-3
-iso:alpha-2
-iso:3166-2
-un:m49_code
+- iso:alpha-3
+- iso:alpha-2
+- iso:3166-2
+- un:m49_code
 
 ### 国の中心座標（国境を図形 bounding-box として見た際の中心点、いわゆる centeroid）
 
-centeroid:latitude
-centeroid:longitude
+- centeroid:latitude
+- centeroid:longitude
 
 ### 世界銀行及び国連による国名・エリア名表記
 
-wb:country
-un:country_or_area
+- wb:country
+- un:country_or_area
 
 ### 世界銀行 掲載データ
 
-wb:region
-wb:income_group
-wb:lending_category
-wb:other
+- wb:region
+- wb:income_group
+- wb:lending_category
+- wb:other
 
 ### 国連 掲載データ
 
-un: region
-un:sub-region
-un:intermediate-region
-un:region-code
-un:sub-region-code
-un:intermediate-region-code
+- un: region
+- un:sub-region
+- un:intermediate-region
+- un:region-code
+- un:sub-region-code
+- un:intermediate-region-code
 
 ## データソース / Data Source
 
